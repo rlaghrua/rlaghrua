@@ -1,6 +1,8 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HelloWorld%20🥳&fontSize=50&animation=twinkling)
-
+<div align="center">
+  
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=HelloWorld%20🥳&fontSize=50&animation=twinkling)
+</div>
 
 <div align="center">
 <h1>:pushpin:Introduction:pushpin:</h1>
@@ -40,9 +42,10 @@
   <a href="https://github.com/${rlaghrua}">
     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlaghrua&layout=compact&theme=dark)](https://github.com/rlaghrua/github-readme-stats)
-<div>
+</div>
 
-
+  <div align="center">
+    
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frlaghrua&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
@@ -50,4 +53,4 @@
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
-
+</div>
